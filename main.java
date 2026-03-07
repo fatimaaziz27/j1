@@ -102,15 +102,13 @@
 
 
 
-// 5️⃣ Inventory & Stock Management System 📦
+// Inventory & Stock Management System
+
 // Features
 
 // Add Product
-
 // Update Stock
-
 // Sell Product
-
 // View Inventory
 
 // Expected Output
@@ -134,15 +132,13 @@
 
 
 
-// 💻 Tech Company Meeting Scheduler
+// Tech Company Meeting Scheduler
+
 // Features
 
 // View Meeting Rooms / Managers
-
 // Schedule Meeting
-
 // View My Meetings
-
 // Cancel Meeting
 
 // Expected Output
@@ -156,7 +152,7 @@
 // 5. Exit
 
 // Choose option:
-// 1️⃣ View Meeting Rooms
+// View Meeting Rooms
 // Choose option: 1
 
 // ------ Available Meeting Rooms ------
@@ -164,7 +160,7 @@
 // ID: 1 | Room: Alpha | Capacity: 10
 // ID: 2 | Room: Beta | Capacity: 6
 // ID: 3 | Room: Gamma | Capacity: 20
-// 2️⃣ Schedule Meeting
+// Schedule Meeting
 // Choose option: 2
 
 // Enter Room ID: 1
@@ -174,7 +170,7 @@
 // Enter Time: 03:00 PM
 
 // Meeting Scheduled Successfully!
-// 3️⃣ View My Meetings
+// View My Meetings
 // Choose option: 3
 
 // Enter Employee Name: Fatima
@@ -186,7 +182,7 @@
 // Room: Alpha
 // Date: 20-03-2026
 // Time: 03:00 PM
-// 4️⃣ Cancel Meeting
+// Cancel Meeting
 // Choose option: 4
 
 // Enter Employee Name: Fatima
@@ -206,7 +202,7 @@
 // 12:00 PM - Available
 // 03:00 PM - Project Discussion
 
-// 💡 This project is great practice for Java because you can use:
+// This project is great practice for Java because you can use:
 
 // Classes (Meeting, Room, Employee)
 

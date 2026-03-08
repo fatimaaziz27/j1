@@ -33,6 +33,14 @@
 
 
 
+
+
+
+
+
+
+
+
 // Event Registration System
 
 // Features
@@ -60,6 +68,13 @@
 
 // Sara - Tech Conference
 // Ali - AI Workshop
+
+
+
+
+
+
+
 
 
 
@@ -102,6 +117,12 @@
 
 
 
+
+
+
+
+
+
 // Inventory & Stock Management System
 
 // Features
@@ -126,6 +147,11 @@
 
 // Sale successful!
 // Remaining Stock: 8
+
+
+
+
+
 
 
 
